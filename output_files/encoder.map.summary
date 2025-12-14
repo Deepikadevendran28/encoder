@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sat Dec 13 18:45:02 2025
+Quartus Prime Version : 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+Revision Name : encoder
+Top-level Entity Name : encoder
+Family : MAX 10
+Total logic elements : 5
+    Total combinational functions : 5
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 11
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
